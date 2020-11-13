@@ -1,0 +1,16 @@
+ Volume in drive F is Soft
+ Volume Serial Number is 0E2B-A050
+
+ Directory of F:\Eclipse WorkSpace\DemoGITRepo
+
+11-11-2020  23:37    <DIR>          .
+11-11-2020  23:37    <DIR>          ..
+11-11-2020  22:22             1,066 .classpath
+11-11-2020  22:22               563 .project
+11-11-2020  22:22    <DIR>          .settings
+11-11-2020  23:37                 0 CMD.txt
+11-11-2020  22:40             2,698 pom.xml
+11-11-2020  22:21    <DIR>          src
+11-11-2020  22:22    <DIR>          target
+               4 File(s)          4,327 bytes
+               5 Dir(s)  172,660,858,880 bytes free
